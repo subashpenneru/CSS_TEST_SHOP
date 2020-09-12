@@ -1,0 +1,32 @@
+{
+  "items": [
+    {
+      "name": "Keeve Set",
+      "rating": 3,
+      "shop-item": "table & chairs",
+      "img": "https://www.royaloakindia.com/uploads/ROYIND-royaloak-atlanta-sofa-3s-132.jpg",
+      "price": 590
+    },
+    {
+      "name": "Keeve Set",
+      "rating": 4,
+      "shop-item": "table & chairs",
+      "img": "https://www.royaloakindia.com/uploads/ROYIND-royaloak-atlanta-sofa-3s-132.jpg",
+      "price": 590
+    },
+    {
+      "name": "Keeve Set",
+      "rating": 4,
+      "shop-item": "table & chairs",
+      "img": "https://www.royaloakindia.com/uploads/ROYIND-royaloak-atlanta-sofa-3s-132.jpg",
+      "price": 590
+    },
+    {
+      "name": "Keeve Set",
+      "rating": 5,
+      "shop-item": "table & chairs",
+      "img": "https://www.royaloakindia.com/uploads/ROYIND-royaloak-atlanta-sofa-3s-132.jpg",
+      "price": 590
+    }
+  ]
+}
