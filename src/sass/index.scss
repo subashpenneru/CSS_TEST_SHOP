@@ -112,6 +112,7 @@ a {
     }
 
     .cart__title {
+        padding: 0 8px;
         margin-bottom: 8px;
     }
 
@@ -122,7 +123,8 @@ a {
         padding: 0 8px;
 
         .cart__info-title {
-            color: gray
+            color: gray;
+            text-transform: capitalize;
         }
 
         &>p {

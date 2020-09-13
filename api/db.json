@@ -1,29 +1,64 @@
 {
   "items": [
     {
-      "name": "Keeve Set",
+      "name": "Keeve Set1",
       "rating": 3,
       "shop-item": "table & chairs",
       "img": "https://www.royaloakindia.com/uploads/ROYIND-royaloak-atlanta-sofa-3s-132.jpg",
       "price": 590
     },
     {
-      "name": "Keeve Set",
+      "name": "Keeve Set2",
       "rating": 4,
-      "shop-item": "table & chairs",
+      "shop-item": "table",
       "img": "https://www.royaloakindia.com/uploads/ROYIND-royaloak-atlanta-sofa-3s-132.jpg",
       "price": 590
     },
     {
-      "name": "Keeve Set",
+      "name": "Keeve Set3",
       "rating": 4,
-      "shop-item": "table & chairs",
+      "shop-item": "chairs",
       "img": "https://www.royaloakindia.com/uploads/ROYIND-royaloak-atlanta-sofa-3s-132.jpg",
       "price": 590
     },
     {
-      "name": "Keeve Set",
+      "name": "Keeve Set4",
       "rating": 5,
+      "shop-item": "table & chairs",
+      "img": "https://www.royaloakindia.com/uploads/ROYIND-royaloak-atlanta-sofa-3s-132.jpg",
+      "price": 590
+    },
+    {
+      "name": "Keeve Set5",
+      "rating": 2,
+      "shop-item": "table & chairs",
+      "img": "https://www.royaloakindia.com/uploads/ROYIND-royaloak-atlanta-sofa-3s-132.jpg",
+      "price": 50
+    },
+    {
+      "name": "Keeve Set6",
+      "rating": 4,
+      "shop-item": "table & chairs",
+      "img": "https://www.royaloakindia.com/uploads/ROYIND-royaloak-atlanta-sofa-3s-132.jpg",
+      "price": 570
+    },
+    {
+      "name": "Keeve Set7",
+      "rating": 3,
+      "shop-item": "table & chairs",
+      "img": "https://www.royaloakindia.com/uploads/ROYIND-royaloak-atlanta-sofa-3s-132.jpg",
+      "price": 590
+    },
+    {
+      "name": "Keeve Set8",
+      "rating": 3,
+      "shop-item": "table & chairs",
+      "img": "https://www.royaloakindia.com/uploads/ROYIND-royaloak-atlanta-sofa-3s-132.jpg",
+      "price": 590
+    },
+    {
+      "name": "Keeve Set9",
+      "rating": 3,
       "shop-item": "table & chairs",
       "img": "https://www.royaloakindia.com/uploads/ROYIND-royaloak-atlanta-sofa-3s-132.jpg",
       "price": 590
